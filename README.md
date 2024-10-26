@@ -40,5 +40,9 @@ Les fonctionnalités principales incluent l'ajout, la mise à jour, la suppressi
 
 https://github.com/user-attachments/assets/8019761c-3bac-42c6-ba18-37ce9b24a565
 
+https://github.com/user-attachments/assets/54ca004f-9610-48d7-a303-2ed29e72d94c
+
+
+
 
  
