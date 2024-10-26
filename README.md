@@ -36,7 +36,9 @@ L'application permet de gérer des utilisateurs avec les fonctionnalités CRUD d
 ## Utilisation
 Les fonctionnalités principales incluent l'ajout, la mise à jour, la suppression et l'affichage d'utilisateurs.
 
-## Auteur
-Votre Nom
+## vidéo
+
+https://github.com/user-attachments/assets/8019761c-3bac-42c6-ba18-37ce9b24a565
+
 
  
